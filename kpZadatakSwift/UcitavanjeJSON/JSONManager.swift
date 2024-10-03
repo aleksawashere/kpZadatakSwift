@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 /// JSONManager instance
-/// Contains all user common api requests
+/// Contains all user common API requests
 final class JSONManager: JSONService {
 
 

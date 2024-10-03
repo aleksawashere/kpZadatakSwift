@@ -1,8 +1,8 @@
 //
 //  LoaderView.swift
-//  KupujemProdajemDEMO
+//  kpZadatakSwift
 //
-//  Created by Petar Sakotic on 5/22/24.
+//  Created by Aleksa Dimitrijevic on 3.10.24..
 //
 
 import UIKit
